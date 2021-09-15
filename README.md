@@ -68,7 +68,7 @@ Below are the final tables in the data lake, stored in S3 as Parquet files.
 * year <br>
 * weekday
 
-#### Songplays Table (Paritioned by Year and Month):
+#### Songplays Table (Partitioned by Year and Month):
 
 * songplay_id <br>
 * start_time <br>

@@ -1,5 +1,7 @@
 # Data Lake with S3 and Spark
 
+A project for Udacity's Data Engineering Nanodegree.
+
 ## Project Purpose
 This purpose of this project is to process song and songplay data into an AWS S3 data lake using Spark on an AWS EMR cluster.
 
